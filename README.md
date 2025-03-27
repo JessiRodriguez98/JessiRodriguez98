@@ -1,3 +1,6 @@
+
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/e08ad618-a6c1-430c-b602-e2b57353bcaa)
+
 # 💫 Sobre mi:
 👋 ¡Hola a todos! Soy Jessica Rodriguez, una QA Engineer apasionada por la calidad del software<br>📍 Desde Bogotá, Colombia | 26 años | Siempre aprendiendo 🚀<br><br>Me especializo en pruebas manuales y automatizadas, asegurando que cada aplicación funcione sin fallos. Manejo Selenium, Pytest, Postman, SQL y herramientas de debugging. Me encanta analizar, encontrar errores y mejorar procesos para garantizar software confiable y eficiente.<br><br>💡 Siempre buscando aprender, optimizar y entregar calidad.<br><br>🔗 ¡Conéctate conmigo y hablemos de testing
 
